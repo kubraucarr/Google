@@ -1,0 +1,62 @@
+#googleortala{
+    margin-left:38%;
+}
+
+body{
+    background-color:rgb(255, 255, 255);
+}
+
+table{
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    width: 90%;
+    margin-left: 5%;
+}
+
+
+tbody{
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+tr{
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+td{
+    background-color: rgb(238, 238, 238);
+    display: table-cell;
+    vertical-align: inherit;
+   text-align: center;
+   width: 10%;
+    
+}
+
+
+input{
+    writing-mode: horizontal-tb !important;
+}
+
+#mavirenk{
+    background-color: rgb(126, 229, 218);
+}
+#ortamavi{
+    background-color: rgb(112, 204, 194);
+    font-size: small;
+}
+
+#koyumavi{
+    background-color: rgb(98, 179, 170);
+    font-size: small;
+    
+}
+
+p{
+    text-align: -webkit-center;
+    font-size: small;
+}
+
